@@ -1,11 +1,13 @@
+
+ <head>
  <title>Project: Travel webpage</title>
  
    </head>
     <body>
         <h1>Travel to Paris. Visit the Amazing views and places of the capital of the most populated city in france.</h1>
         
- </body>
-        <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D"
+
+   <img src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D"
 width = 500>
 ​
 <h2> Alexandre III was the Tsar of Russia at the time of the construction of the bridge (1896—1900). The bridge was named in honor of him as a diplomatic gesture to celebrate the recently formed French-Russian alliance.</h2>
@@ -26,5 +28,5 @@ Latin Quarter (Quartier Latin)
 Seine River - Beaches, Cruises, & More.
 
 Montmartre and Sacré Coeur. </h4>
-        
+</body>      
 </html>
