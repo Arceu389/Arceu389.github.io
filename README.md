@@ -1,6 +1,6 @@
-
  <title>Project: Travel webpage</title>
-    </head>
+ 
+   </head>
     <body>
         <h1>Travel to Paris. Visit the Amazing views and places of the capital of the most populated city in france.</h1>
         
