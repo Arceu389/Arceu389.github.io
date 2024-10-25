@@ -1,6 +1,5 @@
 # Arceu389.github.io
 
-width = 500>
 ​
 <h2> Alexandre III was the Tsar of Russia at the time of the construction of the bridge (1896—1900). The bridge was named in honor of him as a diplomatic gesture to celebrate the recently formed French-Russian alliance.</h2>
 
